@@ -1,6 +1,7 @@
 package net.greddode.betterendneo;
 
 import net.greddode.betterendneo.common.registry.ModBlocks;
+import net.greddode.betterendneo.common.registry.ModCreativeTabs;
 import net.greddode.betterendneo.common.registry.ModItems;
 import org.slf4j.Logger;
 
@@ -39,6 +40,7 @@ public class BetterEndNeo
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeTabs.register(modEventBus);
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
         // Register the item to a creative tab

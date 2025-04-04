@@ -3,6 +3,7 @@ package net.greddode.betterendneo.common.registry;
 import com.google.common.collect.Sets;
 import net.greddode.betterendneo.BetterEndNeo;
 import net.minecraft.core.registries.Registries;
+import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Items;
 import net.neoforged.bus.api.IEventBus;
@@ -29,6 +30,8 @@ public class ModItems
     // MATERIAL ITEMS
     public static final Supplier<Item> AETERNIUM_INGOT = registerWithTab("aeternium_ingot",
             ()-> new Item(basicItem()));
+    public static final Supplier<Item> AETERNIUM_BLOCK = registerWithTab("aeternium_block",
+            ()-> new BlockItem(ModBlocks.AETERNIUM_BLOCK.get(), basicItem()));
 
 
     public static void register(IEventBus eventBus)
