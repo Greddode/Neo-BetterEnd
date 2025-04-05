@@ -1,0 +1,6 @@
+{
+	"parent": "betterendneo:block/cross_no_distortion",
+	"textures": {
+		"texture": "betterendneo:block/end_lily_stem"
+	}
+}

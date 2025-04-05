@@ -1,10 +1,34 @@
 {
   "item.betterendneo.aeternium_ingot": "Aeternium Ingot",
+  "item.betterendneo.ender_dust": "Ender Dust",
+  "item.betterendneo.end_lily_leaf": "End Lily Dust",
+  "item.betterendneo.end_lily_leaf_dried": "End Lily Leaf Dried",
+  "item.betterendneo.crystal_shards": "Crystal Shards",
+  "item.betterendneo.eternal_crystal": "Eternal Crystal",
+  "item.betterendneo.ender_shard": "Ender Shard",
+  "item.betterendneo.raw_amber": "Raw Amber",
+  "item.betterendneo.amber_gem": "Amber Gem",
+  "item.betterendneo.glowing_bulb": "Glowing Bulb",
+  "item.betterendneo.gelatine": "Gelatine",
+  "item.betterendneo.crystalline_sulphur": "Crystalline Sulphur",
+  "item.betterendneo.hydralux_petal": "Hydralux Petal",
+  "item.betterendneo.enchanted_petal": "Enchanted Petal",
+  "item.betterendneo.leather_stripe": "Leather Stripe",
+  "item.betterendneo.leather_wrapped_stick": "Leather Wrapped Stick",
+  "item.betterendneo.silk_fiber": "Silk Fiber",
+  "item.betterendneo.lumecorn_rod": "Lumecorn Rod",
+
+  "item.betterendneo.aeternium_helmet": "Aeternium Helmet",
+  "item.betterendneo.aeternium_chestplate": "Aeternium Chestplate",
+  "item.betterendneo.aeternium_leggings": "Aeternium Leggings",
+  "item.betterendneo.aeternium_boots": "Aeternium Boots",
+
 
 
 
   "block.betterendneo.aeternium_block": "Aeternium Block",
 
-  "itemGroup.betterendneo": "BetterEnd"
+  "creativetab.betterendneo.betterendneo_items": "BetterEnd Items",
+  "creativetab.betterendneo.betterendneo_blocks": "BetterEnd Blocks"
 
 }
